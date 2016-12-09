@@ -1,0 +1,21 @@
+﻿  TStackItem.cpp
+  tstack.cpp
+c:\users\rya97\desktop\новая папка\tstack.h(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  TRAPEZE.cpp
+  TLISTITEM.cpp
+c:\users\rya97\desktop\новая папка\tstack.h(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\rya97\desktop\новая папка\tlistitem.cpp(30): warning C4661: TAllocationBlock TListItem<Figure>::stackitem_allocator: отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+  c:\users\rya97\desktop\новая папка\tlistitem.h(23): note:  см. объявление "TListItem<Figure>::stackitem_allocator"
+c:\users\rya97\desktop\новая папка\tlistitem.cpp(7): warning C4661: TAllocationBlock TListItem<Figure>::stackitem_allocator: отсутствует подходящее определение для запроса на явное создание экземпляра шаблона
+  c:\users\rya97\desktop\новая папка\tlistitem.h(23): note:  см. объявление "TListItem<Figure>::stackitem_allocator"
+  TALLOCATIONBLOCK.cpp
+c:\users\rya97\desktop\новая папка\tstack.h(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ROMB.cpp
+  PENTAGON.cpp
+  main.cpp
+c:\users\rya97\desktop\новая папка\tstack.h(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  LIST.cpp
+c:\users\rya97\desktop\новая папка\tstack.h(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  laba6.vcxproj -> C:\Users\rya97\OneDrive\Документы\Visual Studio 2015\Projects\laba6\Debug\laba6.exe
+  laba6.vcxproj -> C:\Users\rya97\OneDrive\Документы\Visual Studio 2015\Projects\laba6\Debug\laba6.pdb (Full PDB)
